@@ -23,4 +23,5 @@ How to run the code to generate my submission:
 This submission got a 'Multiclass Loss' public score of 0.45173 and private score of 0.45025 corresponding to the 
 private leaderboard rank of #700
 
-See the attached screenshot showing the public score.
+See the attached screenshots showing my public/private score and where my score would have ranked on the private
+leaderboard.
